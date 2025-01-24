@@ -198,3 +198,4 @@ question,answer
 "Do fish wear clothes?","Yes, but they prefer the minimalist look."
 "Can trees sing?","Yes, but they only perform for the wind. Nobody else is there to listen."
 "Do books take vacations?","Absolutely, but they prefer to stay between the covers."
+"How many legs are there on a farm, if there are 3 cows, 2 chickens, and 1 pig?","Step 1. Cows have 4 legs each.  Step 2. Cow legs = 3 cows * 4 legs = 12 legs. Step 3. Chickens have 2 legs each. Step 4. Chicken legs = 2 chickens * 2 legs = 4 legs. Step 5. Pigs have 4 legs each. Step 6. Pig legs = 1 pig * 4 legs = 4 legs Step 7. Total legs = 12 + 4 + 4 = 20 legs."
